@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFileSystemProject", "NetFileSystemProject\NetFileSystemProject.csproj", "{D552284E-E8F6-4808-8DB0-8F763150CFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFileStreamsProject", "NetFileStreamsProject\NetFileStreamsProject.csproj", "{9B2207ED-0C40-4B44-AA38-0A55AA7C9E3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D552284E-E8F6-4808-8DB0-8F763150CFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D552284E-E8F6-4808-8DB0-8F763150CFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D552284E-E8F6-4808-8DB0-8F763150CFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2207ED-0C40-4B44-AA38-0A55AA7C9E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2207ED-0C40-4B44-AA38-0A55AA7C9E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2207ED-0C40-4B44-AA38-0A55AA7C9E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2207ED-0C40-4B44-AA38-0A55AA7C9E3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
